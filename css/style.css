@@ -1,0 +1,25 @@
+*{
+    font-family:Arial, sans-serif;
+    
+    text-decoration: none;
+}
+
+
+.Hoje{
+    color:darkred;
+}
+
+
+.Amanha{
+    color:darkblue;
+}
+
+
+H2 a{
+    color:seagreen;
+}
+
+
+p{
+    font-size:20px;
+}
